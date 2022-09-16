@@ -4,9 +4,31 @@ Below you will find simple tutorial using Stable Diffusion's img2img to alter an
 ![](peccy.png)
 
 ### Stable Diffusion img2img Alteration 
-We start off by using the original image and passing the following text prompt in order to generate a more realistic version of a 2D drawing: `cybernetic biomechanical oracle, chrome, high-tech, extremely detailed, intricate, complex, hypermaximalist, character design by HR Giger, massive looming alien shrine on an ancient planet environment, cinematic, dramatic, epic, volumetric lighting, octane render, ultra HD, 8k`.
+We start off by keeping all of the setting at their default. We upload the original Peccy image and then pass the following text prompt in order to generate a more realistic version of a 2D drawing: `cybernetic biomechanical oracle, chrome, high-tech, extremely detailed, intricate, complex, hypermaximalist, character design by HR Giger, massive looming alien shrine on an ancient planet environment, cinematic, dramatic, epic, volumetric lighting, octane render, ultra HD, 8k`.
+
+After we hit the generate button, we see the following output:
 
 ![](peccy-img2img-iteration1.png)
+
+The children immediately pointed out the difference in that there was no smile. In order to add a smile, we would need to perform in-painting in which we would then switch from the "Redraw whole image" radio button to the "Inpaint a part of the image" radio button. We then hilight the mouth area and pass a new text prompt for a smile (more on how to do this in below steps). Here are a couple iterations the kids saw: 
+
+![](mechanical-peccy-smile.png) | ![](mechanical-peccy-smile2.png) 
+
+Of course they preferred the last iterations smile but all voiced their displeasure with Peccy's appearance. We then navigated back to the "Redraw whole image" radio button and re-uploaded the original Peccy in search of a new candidate. This time we generated the following: 
+
+![](peccy-mechanical-iteration.png)
+
+This time the consensus was that Peccy should actually be "happy little man". We simply changed the text prompt and generated our new base avatar: `playful mascot smiling with perfect white teeth and natural lips, high-tech, extremely detailed, intricate, complex, hypermaximalist, cinematic, happy, volumetric lighting, octane render, ultra HD, 8k`.
+
+![](peccy-img2img-iteration1.png)
+
+The children loved him! They then pointed out that he did not have any arms. We naviagted back to the "Inpaint a part of the image" radio button and uploaded our latest iteration. From there, we hilighted both sides of him where the arms should appear and then passed the new similar prompt:  `symmetrical arms, high-tech, extremely detailed, intricate, complex, hypermaximalist, cinematic, happy, volumetric lighting, octane render, ultra HD, 8k`.
+
+
+![](peccy-inpainting-arms.png)
+
+
+
 
 
 ## Installation and Running
