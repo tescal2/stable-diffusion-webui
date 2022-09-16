@@ -1,7 +1,7 @@
 # Amazon Peccy In Real Life (IRL) 
 Below you will find simple tutorial using Stable Diffusion's img2img to alter an image guided by a text prompt of your choosing. We will use Amazon's corporate mascot named 'Peccy' and the opinions of children to iterate and build out an entirely new image. The exercise took only 10 minutes of prompting and in-painting iterations.  
 
-![](screenshot.png)
+![](Peccy.png)
 
 ## Features
 [Detailed feature showcase with images](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features):
