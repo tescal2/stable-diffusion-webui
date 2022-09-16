@@ -49,6 +49,9 @@ The children all had different opinions on which they thought were the best, but
 ![](peccy-palmtree.png) 
 
 
+They liked the last one but wanted to fix the area between the left side of Peccy's head and their favortie palm tree. We masked the image in that exact spot, updated the prompt, and generated a better version. 
+
+![](peccy-palmtree-fix.png) 
 
 
 
