@@ -1,46 +1,10 @@
 # Amazon Peccy In Real Life (IRL) 
 Below you will find simple tutorial using Stable Diffusion's img2img to alter an image guided by a text prompt of your choosing. We will use Amazon's corporate mascot named 'Peccy' and the opinions of children to iterate and build out an entirely new image. The exercise took only 10 minutes of prompting and in-painting iterations.  
 
-![](Peccy.png)
+![](peccy.png)
 
-## Features
-[Detailed feature showcase with images](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features):
-- Original txt2img and img2img modes
-- One click install and run script (but you still must install python and git)
-- Outpainting
-- Inpainting
-- Prompt matrix
-- Stable Diffusion upscale
-- Attention
-- Loopback
-- X/Y plot
-- Textual Inversion
-- Extras tab with:
-    - GFPGAN, neural network that fixes faces
-    - CodeFormer, face restoration tool as an alternative to GFPGAN
-    - RealESRGAN, neural network upscaler
-    - ESRGAN, neural network with a lot of third party models
-- Resizing aspect ratio options
-- Sampling method selection
-- Interrupt processing at any time
-- 4GB video card support
-- Correct seeds for batches
-- Prompt length validation
-- Generation parameters added as text to PNG
-- Tab to view an existing picture's generation parameters
-- Settings page
-- Running custom code from UI
-- Mouseover hints for most UI elements
-- Possible to change defaults/mix/max/step values for UI elements via text config
-- Random artist button
-- Tiling support: UI checkbox to create images that can be tiled like textures
-- Progress bar and live image generation preview
-- Negative prompt
-- Styles
-- Variations
-- Seed resizing
-- CLIP interrogator
-- Prompt Editing
+### Stable Diffusion img2img Alteration 
+Stable Diffusion img2img alteration 
 
 ## Installation and Running
 Make sure the required [dependencies](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Dependencies) are met and follow the instructions available for both [NVidia](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-NVidia-GPUs) (recommended) and [AMD](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-AMD-GPUs) GPUs.
