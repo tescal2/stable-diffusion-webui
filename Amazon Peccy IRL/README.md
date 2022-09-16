@@ -4,7 +4,10 @@ Below you will find simple tutorial using Stable Diffusion's img2img to alter an
 ![](peccy.png)
 
 ### Stable Diffusion img2img Alteration 
-Stable Diffusion img2img alteration 
+We start off by using the original image and passing the following text prompt in order to generate a more realistic version of a 2D drawing: `cybernetic biomechanical oracle, chrome, high-tech, extremely detailed, intricate, complex, hypermaximalist, character design by HR Giger, massive looming alien shrine on an ancient planet environment, cinematic, dramatic, epic, volumetric lighting, octane render, ultra HD, 8k`.
+
+![](peccy-img2img-iteration1.png)
+
 
 ## Installation and Running
 Make sure the required [dependencies](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Dependencies) are met and follow the instructions available for both [NVidia](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-NVidia-GPUs) (recommended) and [AMD](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-AMD-GPUs) GPUs.
