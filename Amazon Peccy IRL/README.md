@@ -31,15 +31,20 @@ The children loved him! They then pointed out that he did not have any arms. We 
 
 ![](peccy-inpainting-arms.png)
 
-They all laughed and one commeted on how they look like potatoes! Here are a few other iterations that we generated:
+They all laughed and one commeted on how the arms look like potatoes! Here are a few other iterations that we generated:
 
 ![](peccy-arms.png) 
 
+The consensus was that the last iteration with the white stripe going through the bicep was the coolest but we need to remove the small "pointy" part. For this, we reverted back to inpainting so we can hilight (mask) those pointy parts of the arms and smooth them out with a new prompt. The result was exactly what had imagined: 
 
+![](perfect-peccy.png) 
 
+The next question that arose was "What is he standing on?" Afer a small debate, we decided to have him walking on water. We inpainted again by setting the mask to replace just the bottom portion of the screen, as well as the current "board" he was on top of, and passed a similar prompt as the ones used above but with water. Here are all of the various water iterations stable diffusion generated for us: 
 
+![](peccy-water1.png) 
+![](peccy-water2.png) 
 
-
+The children all had different opinions on which they thought were the best, but after an eecutive decision was made, we moved forward with the first (top left) iteration shown. 
 
 
 
