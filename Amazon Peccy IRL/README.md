@@ -12,7 +12,11 @@ After we hit the generate button, we see the following output:
 
 The children immediately pointed out the difference in that there was no smile. In order to add a smile, we would need to perform in-painting in which we would then switch from the "Redraw whole image" radio button to the "Inpaint a part of the image" radio button. We then hilight the mouth area and pass a new text prompt for a smile (more on how to do this in below steps). Here are a couple iterations the kids saw: 
 
-![](mechanical-peccy-smile.png) | ![](mechanical-peccy-smile2.png) 
+Mechanical Peccy Smile 1            |  Mechanical Peccy Smile 1 
+:-------------------------:|:-------------------------:
+![](mechanical-peccy-smile.png)  |  ![](mechanical-peccy-smile2.png) 
+
+
 
 Of course they preferred the last iterations smile but all voiced their displeasure with Peccy's appearance. We then navigated back to the "Redraw whole image" radio button and re-uploaded the original Peccy in search of a new candidate. This time we generated the following: 
 
