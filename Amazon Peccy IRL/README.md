@@ -1,7 +1,7 @@
 # Amazon Peccy In Real Life (IRL) 
 Below you will find simple tutorial using Stable Diffusion's img2img to alter an image guided by a text prompt of your choosing. We will use Amazon's corporate mascot named 'Peccy' and the opinions of children to iterate and build out an entirely new image. The exercise took only 10 minutes of prompting and in-painting iterations.  
 
-![](peccy.png)
+![](peccy-original.png)
 
 ### Stable Diffusion img2img Alteration 
 We start off by keeping all of the setting at their default. We upload the original Peccy image and then pass the following text prompt in order to generate a more realistic version of a 2D drawing: `cybernetic biomechanical oracle, chrome, high-tech, extremely detailed, intricate, complex, hypermaximalist, character design by HR Giger, massive looming alien shrine on an ancient planet environment, cinematic, dramatic, epic, volumetric lighting, octane render, ultra HD, 8k`.
