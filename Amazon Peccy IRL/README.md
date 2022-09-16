@@ -44,7 +44,11 @@ The next question that arose was "What is he standing on?" Afer a small debate, 
 ![](peccy-water1.png) 
 ![](peccy-water2.png) 
 
-The children all had different opinions on which they thought were the best, but after an eecutive decision was made, we moved forward with the first (top left) iteration shown. 
+The children all had different opinions on which they thought were the best, but after an executive decision was made, we moved forward with the first (top left) iteration shown. From there, they requested a palm tree to be added. We masked the top left of the image and updated the prompt with palm trees in it. Here are the three iterations: 
+
+![](peccy-palmtree.png) 
+
+
 
 
 
