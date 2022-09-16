@@ -33,11 +33,7 @@ The children loved him! They then pointed out that he did not have any arms. We 
 
 They all laughed and one commeted on how they look like potatoes! Here are a few other iterations that we generated:
 
-
-Peccy Arms 1           |  Peccy Arms 2          | Peccy Arms 3
-:-------------------------:|:-------------------------:|:-------------------------:
-![](peccy-arms1.png)  |  ![](peccy-arms2.png)  |  ![](peccy-arms3.png) 
-
+![](peccy-arms.png) 
 
 
 
