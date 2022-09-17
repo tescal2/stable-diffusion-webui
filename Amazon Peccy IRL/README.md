@@ -1,5 +1,5 @@
 # Amazon Peccy In Real Life (IRL) 
-Below you will find simple tutorial using Stable Diffusion's img2img to alter an image guided by a text prompt of one's own imagination. We will use Amazon's mascot named 'Peccy' and the opinions of children to iterate and build out an entirely new version of Peccy in real life (IRL). The exercise took ~20 minutes of prompting and in-painting iterations.  
+Below you will find simple tutorial using Stable Diffusion's img2img to alter an image guided by a text prompt of one's own imagination. We will use Amazon's mascot named 'Peccy' and the opinions of children to iterate and build out an entirely new version of Peccy in real life (IRL). The exercise took ~20 minutes of prompting and inpainting iterations.  
 
 ![](peccy-original.png)
 
@@ -22,7 +22,7 @@ Of course they preferred the last iterations smile but all voiced their displeas
 
 ![](peccy-mechanical-iteration.png)
 
-This time the consensus was that Peccy should actually be "happy little man". We simply changed the text prompt and generated our new base avatar: `playful mascot smiling with perfect white teeth and natural lips, high-tech, extremely detailed, intricate, complex, hypermaximalist, cinematic, happy, volumetric lighting, octane render, ultra HD, 8k`.
+This time the consensus was that Peccy should actually be a "happy little man". We simply changed the text prompt and generated our new base avatar: `playful mascot smiling with perfect white teeth and natural lips, high-tech, extremely detailed, intricate, complex, hypermaximalist, cinematic, happy, volumetric lighting, octane render, ultra HD, 8k`.
 
 ![](peccy-img2img-iteration5.png)
 
