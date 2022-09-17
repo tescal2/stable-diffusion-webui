@@ -53,8 +53,9 @@ They liked the last one but wanted to fix the area between the left side of Pecc
 
 ![](peccy-palmtree-fix.png) 
 
+They then discussed how Peccy is at the beach and might need some hair to cover his head from the sun. After inpainting and a new prompt we did just that: 
 
-
+![](peccy-hair.png) 
 
 
 
