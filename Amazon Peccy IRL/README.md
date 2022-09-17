@@ -67,4 +67,6 @@ The children then spoke about how Peccy was a native on a remote island living h
 
 And then tied it all together! 
 
-![](howitstarted-vs-howsitgoing.png) 
+How it Started            |  How its going 
+:-------------------------:|:-------------------------:
+![](peccy-original.png)  |  ![](peccy-medallion-rope.png) 
