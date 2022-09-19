@@ -70,3 +70,5 @@ And then tied it all together!
 How it Started            |  How its going 
 :-------------------------:|:-------------------------:
 ![](peccy-original.png)  |  ![](peccy-medallion-rope.png) 
+
+This is just a starting point. Please revert to the home directory in order to see many other features. Happy Diffusing! 
