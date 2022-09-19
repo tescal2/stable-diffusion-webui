@@ -10,7 +10,7 @@ After we hit the generate button, we see the following output:
 
 ![](peccy-img2img-iteration1.png)
 
-The children immediately pointed out the difference in that there was no smile. In order to add a smile, we would need to perform inpainting in which we would then switch from the "Redraw whole image" radio button to the "Inpaint a part of the image" radio button. We then hilight the mouth area and pass a new text prompt for a smile (more on how to do this in below steps). Here are a couple iterations the kids saw: 
+The children immediately pointed out the difference in that there was no smile. In order to add a smile, we would need to perform inpainting in which we would then switch from the "Redraw whole image" radio button to the "Inpaint a part of the image" radio button. We then highlighted the mouth area and passed a new text prompt for a smile (more on how to do this in below steps). Here are a couple iterations the kids saw: 
 
 Mechanical Peccy Smile 1            |  Mechanical Peccy Smile 1 
 :-------------------------:|:-------------------------:
@@ -18,28 +18,28 @@ Mechanical Peccy Smile 1            |  Mechanical Peccy Smile 1
 
 
 
-Of course they preferred the last iterations smile but all voiced their displeasure with Peccy's appearance. We then navigated back to the "Redraw whole image" radio button and re-uploaded the original Peccy in search of a new candidate. This time we generated the following: 
+Of course they preferred the last iteration's smile, but all voiced their displeasure with Peccy's appearance. We then navigated back to the "Redraw whole image" radio button and re-uploaded the original Peccy in search of a new candidate. This time we generated the following: 
 
 ![](peccy-mechanical-iteration.png)
 
-This time the consensus was that Peccy should actually be a "happy little man". We simply changed the text prompt and generated our new base avatar: `playful mascot smiling with perfect white teeth and natural lips, high-tech, extremely detailed, intricate, complex, hypermaximalist, cinematic, happy, volumetric lighting, octane render, ultra HD, 8k`.
+This time, the consensus was that Peccy should actually be a "happy little man". We simply changed the text prompt and generated our new base avatar: `playful mascot smiling with perfect white teeth and natural lips, high-tech, extremely detailed, intricate, complex, hypermaximalist, cinematic, happy, volumetric lighting, octane render, ultra HD, 8k`.
 
 ![](peccy-img2img-iteration5.png)
 
-The children loved him! They then pointed out that he did not have any arms. We naviagted back to the "Inpaint a part of the image" radio button and uploaded our latest iteration. From there, we hilighted both sides of him where the arms should appear and then passed the new similar prompt:  `symmetrical arms, high-tech, extremely detailed, intricate, complex, hypermaximalist, cinematic, happy, volumetric lighting, octane render, ultra HD, 8k`.
+The children loved him! They then pointed out that he did not have any arms. We naviagted back to the "Inpaint a part of the image" radio button and uploaded our latest iteration. From there, we highlighted both sides of him where the arms should appear and then passed the new similar prompt:  `symmetrical arms, high-tech, extremely detailed, intricate, complex, hypermaximalist, cinematic, happy, volumetric lighting, octane render, ultra HD, 8k`.
 
 
 ![](peccy-inpainting-arms.png)
 
-They all laughed and one commeted on how the arms look like potatoes! Here are a few other iterations that we generated:
+They all laughed and one commeted on how the arms looked like potatoes! Here are a few other iterations that we generated:
 
 ![](peccy-arms.png) 
 
-The consensus was that the last iteration with the white stripe going through the bicep was the coolest but we need to remove the small "pointy" part. For this, we reverted back to inpainting so we can hilight (mask) those pointy parts of the arms and smooth them out with a new prompt. The result was exactly what had imagined: 
+The consensus was that the last iteration with the white stripe going through the bicep was the coolest, but, we need to remove the small "pointy" part. For this, we reverted back to inpainting so we can highlight (mask) those pointy parts of the arms and smooth them out with a new prompt. The result was exactly what they had imagined: 
 
 ![](perfect-peccy.png) 
 
-The next question that arose was "What is he standing on?" Afer a small debate, we decided to have him walking on water. We inpainted again by setting the mask to replace just the bottom portion of the screen, as well as the current "board" he was on top of, and passed a similar prompt as the ones used above but with water. Here are all of the various water iterations stable diffusion generated for us: 
+The next question that arose was "What is he standing on?" Afer a small debate, they decided to have him walking on water. We inpainted again by setting the mask to replace the bottom portion of the screen, as well as the current "board" he was on top of, and passed a similar prompt as the ones used above but with water. Here are all of the various water iterations stable diffusion generated for us: 
 
 ![](peccy-water1.png) 
 ![](peccy-water2.png) 
@@ -49,11 +49,11 @@ The children all had different opinions on which they thought were the best, but
 ![](peccy-palmtree.png) 
 
 
-They liked the last one but wanted to fix the area between the left side of Peccy's head and their favortie palm tree. We masked the image in that exact spot, updated the prompt, and generated a better version. 
+They liked the last one, however, they wanted to fix the area between the left side of Peccy's head and their favortie palm tree. We masked the image in that exact spot, updated the prompt, and generated a better version. 
 
 ![](peccy-palmtree-fix.png) 
 
-They then discussed how Peccy is at the beach and might need some hair to cover his head from the sun. After inpainting and a new prompt we did just that. I know it's not alot, but it is all he has :rofl: 
+They then discussed how Peccy is at the beach and might need some hair to cover his head from the sun. After inpainting and a new prompt we did just that. I know it's not a lot, but it is all he has :rofl: 
 
 ![](peccy-hair.png) 
 
