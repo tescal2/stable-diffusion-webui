@@ -73,4 +73,4 @@ How it Started            |  How its going
 :-------------------------:|:-------------------------:
 ![](peccy-original.png)  |  ![](peccy-medallion-rope.png) 
 
-This is just a starting point. Please revert to the [root directory]((/README.md)) in order to see many other features. Happy Diffusing! 
+This is just a starting point. Please revert to the [root directory](https://github.com/tescal2/stable-diffusion-webui) in order to see many other features. Happy Diffusing! 
