@@ -1,6 +1,8 @@
 # Amazon Peccy In Real Life (IRL) 
 Below you will find simple tutorial using Stable Diffusion's img2img to alter an image guided by a text prompt of one's own imagination. We will use Amazon's mascot named 'Peccy' and the opinions of children to iterate and build out an entirely new version of Peccy in real life (IRL). The exercise took ~20 minutes of prompting and inpainting iterations.  
 
+[Unofficial Trailer](https://s3.amazonaws.com/robocarhack.com/Amazon+Peccy+IRL+.mp4)
+
 ![](peccy-original.png)
 
 ### Stable Diffusion img2img Alteration 
@@ -71,4 +73,4 @@ How it Started            |  How its going
 :-------------------------:|:-------------------------:
 ![](peccy-original.png)  |  ![](peccy-medallion-rope.png) 
 
-This is just a starting point. Please revert to the home directory in order to see many other features. Happy Diffusing! 
+This is just a starting point. Please revert to the [root directory]((/README.md)) in order to see many other features. Happy Diffusing! 
